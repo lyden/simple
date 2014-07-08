@@ -1,0 +1,3 @@
+org/sonatype/mavenbook/AppTest.class
+org/sonatype/mavenbook/cucumber/steps/TodoSteps.class
+org/sonatype/mavenbook/cucumber/CukesRunnerTest.class
